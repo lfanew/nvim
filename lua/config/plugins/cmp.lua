@@ -9,7 +9,7 @@ return {
       -- C-k: Toggle signature help
       --
       -- See the full "keymap" documentation for information on defining your own keymap.
-      keymap = { preset = 'default' },
+      keymap = { preset = 'super-tab' },
   
       appearance = {
         -- Sets the fallback highlight groups to nvim-cmp's highlight groups
